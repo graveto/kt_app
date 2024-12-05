@@ -1,0 +1,30 @@
+[
+  {
+    "label": "Datacards",
+    "path": "assets/pdfs/death_korps/datacards.pdf"
+  },
+  {
+    "label": "Operative Selection",
+    "path": "assets/pdfs/death_korps/operative_selection.pdf"
+  },
+  {
+    "label": "Faction Rules",
+    "path": "assets/pdfs/death_korps/faction_rules.pdf"
+  },
+  {
+    "label": "Equipment",
+    "path": "assets/pdfs/death_korps/equipment.pdf"
+  },
+  {
+    "label": "Strategy Ploys",
+    "path": "assets/pdfs/death_korps/strategy_ploys.pdf"
+  },
+  {
+    "label": "Firefight Ploys",
+    "path": "assets/pdfs/death_korps/firefight_ploys.pdf"
+  },
+  {
+    "label": "Supplementary Information",
+    "path": "assets/pdfs/death_korps/supplementary_information.pdf"
+  }
+]

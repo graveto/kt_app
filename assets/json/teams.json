@@ -1,27 +1,10 @@
 [
   {
-    "label": "Core Rulesssss: Update Log",
+    "label": "Core Rules: Update Log",
     "teamInfo": [
       {
-        "label": "Datacards"
-      },
-      {
-        "label": "Operative Selection"
-      },
-      {
-        "label": "Faction Rules"
-      },
-      {
-        "label": "Equipment"
-      },
-      {
-        "label": "Strategy Ploys"
-      },
-      {
-        "label": "Firefight Ploys"
-      },
-      {
-        "label": "Suplementary Information"
+        "label": "Core Rules: Update Log",
+        "path": "assets/pdfs/core_rules/core_rules_update.pdf"
       }
     ]
   },
@@ -29,25 +12,8 @@
     "label": "Kill Team Lite Rules",
     "teamInfo": [
       {
-        "label": "Datacards"
-      },
-      {
-        "label": "Operative Selection"
-      },
-      {
-        "label": "Faction Rules"
-      },
-      {
-        "label": "Equipment"
-      },
-      {
-        "label": "Strategy Ploys"
-      },
-      {
-        "label": "Firefight Ploys"
-      },
-      {
-        "label": "Suplementary Information"
+        "label": "Kill Team Lite Rules",
+        "path": "assets/pdfs/core_rules/killteam_lite.pdf"
       }
     ]
   },
@@ -55,25 +21,32 @@
     "label": "Angels of Death",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death/datacards.pdf"
       },
       {
-        "label": "Operative Selection"
+        "label": "Operative Selection",
+        "path": "assets/pdfs/angels_of_death/operative_selection.pdf"
       },
       {
-        "label": "Faction Rules"
+        "label": "Faction Rules",
+        "path": "assets/pdfs/angels_of_death/faction_rules.pdf"
       },
       {
-        "label": "Equipment"
+        "label": "Equipment",
+        "path": "assets/pdfs/angels_of_death/equipment.pdf"
       },
       {
-        "label": "Strategy Ploys"
+        "label": "Strategy Ploys",
+        "path": "assets/pdfs/angels_of_death/strategy_ploys.pdf"
       },
       {
-        "label": "Firefight Ploys"
+        "label": "Firefight Ploys",
+        "path": "assets/pdfs/angels_of_death/firefight_ploys.pdf"
       },
       {
-        "label": "Suplementary Information"
+        "label": "Supplementary Information",
+        "path": "assets/pdfs/angels_of_death/supplementary_information.pdf"
       }
     ]
   },
@@ -81,25 +54,32 @@
     "label": "Blades of Khaine",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/blades_of_khaine/datacards.pdf"
       },
       {
-        "label": "Operative Selection"
+        "label": "Operative Selection",
+        "path": "assets/pdfs/blades_of_khaine/operative_selection.pdf"
       },
       {
-        "label": "Faction Rules"
+        "label": "Faction Rules",
+        "path": "assets/pdfs/blades_of_khaine/faction_rules.pdf"
       },
       {
-        "label": "Equipment"
+        "label": "Equipment",
+        "path": "assets/pdfs/blades_of_khaine/equipment.pdf"
       },
       {
-        "label": "Strategy Ploys"
+        "label": "Strategy Ploys",
+        "path": "assets/pdfs/blades_of_khaine/strategy_ploys.pdf"
       },
       {
-        "label": "Firefight Ploys"
+        "label": "Firefight Ploys",
+        "path": "assets/pdfs/blades_of_khaine/firefight_ploys.pdf"
       },
       {
-        "label": "Suplementary Information"
+        "label": "Supplementary Information",
+        "path": "assets/pdfs/blades_of_khaine/supplementary_information.pdf"
       }
     ]
   },
@@ -107,25 +87,32 @@
     "label": "Blooded",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/blooded/datacards.pdf"
       },
       {
-        "label": "Operative Selection"
+        "label": "Operative Selection",
+        "path": "assets/pdfs/blooded/operative_selection.pdf"
       },
       {
-        "label": "Faction Rules"
+        "label": "Faction Rules",
+        "path": "assets/pdfs/blooded/faction_rules.pdf"
       },
       {
-        "label": "Equipment"
+        "label": "Equipment",
+        "path": "assets/pdfs/blooded/equipment.pdf"
       },
       {
-        "label": "Strategy Ploys"
+        "label": "Strategy Ploys",
+        "path": "assets/pdfs/blooded/strategy_ploys.pdf"
       },
       {
-        "label": "Firefight Ploys"
+        "label": "Firefight Ploys",
+        "path": "assets/pdfs/blooded/firefight_ploys.pdf"
       },
       {
-        "label": "Suplementary Information"
+        "label": "Supplementary Information",
+        "path": "assets/pdfs/blooded/supplementary_information.pdf"
       }
     ]
   },
@@ -133,25 +120,32 @@
     "label": "Brood Brothers",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/brood_brothers/datacards.pdf"
       },
       {
-        "label": "Operative Selection"
+        "label": "Operative Selection",
+        "path": "assets/pdfs/brood_brothers/operative_selection.pdf"
       },
       {
-        "label": "Faction Rules"
+        "label": "Faction Rules",
+        "path": "assets/pdfs/brood_brothers/faction_rules.pdf"
       },
       {
-        "label": "Equipment"
+        "label": "Equipment",
+        "path": "assets/pdfs/brood_brothers/equipment.pdf"
       },
       {
-        "label": "Strategy Ploys"
+        "label": "Strategy Ploys",
+        "path": "assets/pdfs/brood_brothers/strategy_ploys.pdf"
       },
       {
-        "label": "Firefight Ploys"
+        "label": "Firefight Ploys",
+        "path": "assets/pdfs/brood_brothers/firefight_ploys.pdf"
       },
       {
-        "label": "Suplementary Information"
+        "label": "Supplementary Information",
+        "path": "assets/pdfs/brood_brothers/supplementary_information.pdf"
       }
     ]
   },
@@ -159,25 +153,32 @@
     "label": "Chaos Cult",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/chaos_cult/datacards.pdf"
       },
       {
-        "label": "Operative Selection"
+        "label": "Operative Selection",
+        "path": "assets/pdfs/chaos_cult/operative_selection.pdf"
       },
       {
-        "label": "Faction Rules"
+        "label": "Faction Rules",
+        "path": "assets/pdfs/chaos_cult/faction_rules.pdf"
       },
       {
-        "label": "Equipment"
+        "label": "Equipment",
+        "path": "assets/pdfs/chaos_cult/equipment.pdf"
       },
       {
-        "label": "Strategy Ploys"
+        "label": "Strategy Ploys",
+        "path": "assets/pdfs/chaos_cult/strategy_ploys.pdf"
       },
       {
-        "label": "Firefight Ploys"
+        "label": "Firefight Ploys",
+        "path": "assets/pdfs/chaos_cult/firefight_ploys.pdf"
       },
       {
-        "label": "Suplementary Information"
+        "label": "Supplementary Information",
+        "path": "assets/pdfs/chaos_cult/supplementary_information.pdf"
       }
     ]
   },
@@ -185,25 +186,32 @@
     "label": "Corsair Voidscarred",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/corsair_voidscarred/datacards.pdf"
       },
       {
-        "label": "Operative Selection"
+        "label": "Operative Selection",
+        "path": "assets/pdfs/corsair_voidscarred/operative_selection.pdf"
       },
       {
-        "label": "Faction Rules"
+        "label": "Faction Rules",
+        "path": "assets/pdfs/corsair_voidscarred/faction_rules.pdf"
       },
       {
-        "label": "Equipment"
+        "label": "Equipment",
+        "path": "assets/pdfs/corsair_voidscarred/equipment.pdf"
       },
       {
-        "label": "Strategy Ploys"
+        "label": "Strategy Ploys",
+        "path": "assets/pdfs/corsair_voidscarred/strategy_ploys.pdf"
       },
       {
-        "label": "Firefight Ploys"
+        "label": "Firefight Ploys",
+        "path": "assets/pdfs/corsair_voidscarred/firefight_ploys.pdf"
       },
       {
-        "label": "Suplementary Information"
+        "label": "Supplementary Information",
+        "path": "assets/pdfs/corsair_voidscarred/supplementary_information.pdf"
       }
     ]
   },
@@ -211,25 +219,32 @@
     "label": "Death Korps",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/death_korps/datacards.pdf"
       },
       {
-        "label": "Operative Selection"
+        "label": "Operative Selection",
+        "path": "assets/pdfs/death_korps/operative_selection.pdf"
       },
       {
-        "label": "Faction Rules"
+        "label": "Faction Rules",
+        "path": "assets/pdfs/death_korps/faction_rules.pdf"
       },
       {
-        "label": "Equipment"
+        "label": "Equipment",
+        "path": "assets/pdfs/death_korps/equipment.pdf"
       },
       {
-        "label": "Strategy Ploys"
+        "label": "Strategy Ploys",
+        "path": "assets/pdfs/death_korps/strategy_ploys.pdf"
       },
       {
-        "label": "Firefight Ploys"
+        "label": "Firefight Ploys",
+        "path": "assets/pdfs/death_korps/firefight_ploys.pdf"
       },
       {
-        "label": "Suplementary Information"
+        "label": "Supplementary Information",
+        "path": "assets/pdfs/death_korps/supplementary_information.pdf"
       }
     ]
   },
@@ -237,7 +252,8 @@
     "label": "Elucidian Starstriders",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -263,7 +279,8 @@
     "label": "Exaction Squad",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -289,7 +306,8 @@
     "label": "Farstalker Kinband",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -315,7 +333,8 @@
     "label": "Fellgor Ravagers",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -341,7 +360,8 @@
     "label": "Gellerpox Infected",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -367,7 +387,8 @@
     "label": "Hand of the Archon",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -393,7 +414,8 @@
     "label": "Hearthkyn Salvagers",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -419,7 +441,8 @@
     "label": "Hernkyn Yaegirs",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -445,7 +468,8 @@
     "label": "Hierotek Circle",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -471,7 +495,8 @@
     "label": "Hunter Clade",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -497,7 +522,8 @@
     "label": "Imperial Navy Breachers",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -523,7 +549,8 @@
     "label": "Inquisitorial Agents",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -549,7 +576,8 @@
     "label": "Kasrkin",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -575,7 +603,8 @@
     "label": "Kommandos",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -601,7 +630,8 @@
     "label": "Legionaries",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -627,7 +657,8 @@
     "label": "Mandrakes",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -653,7 +684,8 @@
     "label": "Nemesis Claw",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -679,7 +711,8 @@
     "label": "Novitiates",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -705,7 +738,8 @@
     "label": "Pathfinders",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -731,7 +765,8 @@
     "label": "Phobos Strike Team",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -757,7 +792,8 @@
     "label": "Plague Marines",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -783,7 +819,8 @@
     "label": "Scout Squad",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -809,7 +846,8 @@
     "label": "Tempestus Aquilons",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -835,7 +873,8 @@
     "label": "Vespid Stingwings",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -861,7 +900,8 @@
     "label": "Void-Dancer Troupe",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -887,7 +927,8 @@
     "label": "Warpcoven",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"
@@ -913,7 +954,8 @@
     "label": "Wyrmblade",
     "teamInfo": [
       {
-        "label": "Datacards"
+        "label": "Datacards",
+        "path": "assets/pdfs/angels_of_death_datacards.pdf"
       },
       {
         "label": "Operative Selection"

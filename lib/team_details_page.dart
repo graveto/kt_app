@@ -28,7 +28,7 @@ class TeamDetailsPage extends StatelessWidget {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder: (context) => DataCardsPage(dataCard: team.teamInfo[index].label),
+                      builder: (context) => DataCardsPage(label: team.teamInfo[index].label, path: team.teamInfo[index].path),
                     ),
                   );
                 },

@@ -49,7 +49,7 @@ class TeamListPage extends StatelessWidget {
         ),
       ),
       bottomNavigationBar: BottomAppBar(
-        height: 100,
+        height: 103,
         color: Colors.deepOrange,
         child: Padding(
           padding: const EdgeInsets.all(4.0),
