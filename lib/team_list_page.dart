@@ -1,11 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:kt_app/team_details_page.dart';
-import 'package:kt_app/team_info.dart';
+// import 'package:kt_app/team_info.dart';
+// import 'main.dart';
 
 class TeamListPage extends StatelessWidget {
-  final List<RootObject> teams;
+  final List<dynamic> teams;
 
-  const TeamListPage({required this.teams, super.key});
+  const TeamListPage({super.key, required this.teams});
+
 
   @override
   Widget build(BuildContext context) {

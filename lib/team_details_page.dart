@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:kt_app/team_info.dart';
-// import 'package:pdfrx/pdfrx.dart';
+import 'package:kt_app/team_data.dart';
+// import 'package:kt_app/team_info.dart';
 
 import 'datacards_page.dart';
 
 class TeamDetailsPage extends StatelessWidget {
-  final RootObject team;
+  final Team team;
   const TeamDetailsPage({super.key, required this.team});
 
   @override
